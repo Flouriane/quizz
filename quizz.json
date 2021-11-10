@@ -8,11 +8,11 @@
     "questions": [
       {
         "number": 1,
-        "question": "Eighteen thousandths, written as a decimal, is:",
+        "question": "Quel est le métier de Sam ?:",
         "answers": [
-          "0.0018",
-          "0.018",
-          "0.18"
+          "Cuisinier",
+          "tarvernier",
+          "Chauffeur de bus"
         ],
         "correct_answer": 1
       },
