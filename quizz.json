@@ -1,10 +1,4 @@
 {
-    "module": {
-      "number": 1,
-      "name": "Mathematics",
-      "questions": 30,
-      "revision": "2017-08-13"
-    },
     "questions": [
       {
         "number": 1,
