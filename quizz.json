@@ -9,7 +9,7 @@
           "Réponse3",
           "Réponse4"
         ],
-        "correct_answer": "réponse1"
+        "correct_answer": "Bonne réponse question1"
       },
       {
         "number": 2,
@@ -30,7 +30,7 @@
           "Réponse3",
           "Réponse4"
         ],
-        "correct_answer": 2
+        "correct_answer": "Bonne réponse question2"
       },{
         "number": 2,
         "question": "Question4:",
@@ -40,7 +40,7 @@
           "Réponse3",
           "Réponse4"
         ],
-        "correct_answer": 3
+        "correct_answer": "Bonne réponse question2"
       },{
         "number": 2,
         "question": "Question5",
@@ -50,7 +50,7 @@
           "Réponse3",
           "Réponse4"
         ],
-        "correct_answer": 4
+        "correct_answer": "Bonne réponse question2"
       },{
         "number": 2,
         "question": "Question6",
@@ -60,7 +60,7 @@
           "Réponse3",
            "Réponse4"
         ],
-        "correct_answer": 0
+        "correct_answer": "Bonne réponse question2"
       }
       
     ]
